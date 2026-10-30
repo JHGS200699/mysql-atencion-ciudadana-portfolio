@@ -1,18 +1,18 @@
-# 📊 Sistema de Gestión y Analítica de Atención Ciudadana (MySQL)
+# Sistema de Gestión y Analítica de Atención Ciudadana (MySQL)
 
-## 📌 Descripción del Proyecto
-Este repositorio contiene el modelo relacional, script de creación (DDL/DML) y consultas analíticas para un sistema de **Atención Ciudadana**. El objetivo principal es estructurar y consolidar los reportes de incidencias urbanas (fugas de agua, luminarias fundidas, baches), relacionarlos con sus áreas operativas y generar indicadores para optimizar los tiempos de respuesta (SLA) y la toma de decisiones municipales.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-* **Motor de Base de Datos:** MySQL 8.0
-* **IDE / Entorno:** MySQL Workbench / Visual Studio Code
-* **Lenguaje:** SQL (DQL, DML, DDL)
+## Descripción del Proyecto
+Este repositorio contiene el modelo relacional, script de creación (DDL/DML) y consultas analíticas para un sistema de Atención Ciudadana. El objetivo principal es estructurar y consolidar los reportes de incidencias urbanas (fugas de agua, luminarias fundidas, baches), relacionarlos con sus áreas operativas y generar indicadores para optimizar los tiempos de respuesta (SLA) y la toma de decisiones municipales.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Tecnologías y Herramientas
+* Motor de Base de Datos: MySQL 8.0
+* IDE / Entorno: MySQL Workbench / Visual Studio Code
+* Lenguaje: SQL (DQL, DML, DDL)
+
+---
+
+## Estructura del Repositorio
 
 ```text
 mysql-atencion-ciudadana-portfolio/
